@@ -132,3 +132,8 @@
 .text {
   margin-left: 17px;
 }
+.last{
+    height: 150px;
+    width: 1000px;
+    background: black;
+}
