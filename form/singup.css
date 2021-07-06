@@ -1,15 +1,15 @@
 body {
-  background-color: rgb(139, 197, 197);
+  background-color: rgb(39, 10, 38);
 }
 
 .login-box {
-  background-color:white;
+  background-color:rgb(230, 170, 170);
   width: 300px;
   padding: 10px;
   margin-top: 5px;
-  color: black;
+  color: rgb(0, 0, 0);
   margin: auto;
-  margin-top: 100px;
+ 
   
 }
 
@@ -33,13 +33,24 @@ h1 {
   background:white);
   border-radius: 10px;
 }
+.login-box textarea{
+  margin-top: 10px;
+  padding: 10px 0px;
+  padding-left: 10px;
+  font-size: 20px;
+  background:white);
+  border-radius: 10px;
+  width: 95%;
+}
+
+
 .submit-button {
   background: rgba(63, 82, 255, 0.986) !important;
   color: white;
   width: 100% !important;
 }
 .submit-button:hover{
-  background-color: blueviolet !important;
+  background-color: rgb(250, 122, 2) !important;
 }
 .register span {
   color: red;

@@ -22,6 +22,7 @@
   padding-left: 25px;
   padding-top: 12px;
   outline: none;
+
 }
 .sectiontwo {
   height: 250px;
@@ -82,6 +83,7 @@
   background-image: linear-gradient(orange, red);
   border-radius: 50px;
   padding: 10px;
+
 }
 .myrecipie {
   text-align: center;
